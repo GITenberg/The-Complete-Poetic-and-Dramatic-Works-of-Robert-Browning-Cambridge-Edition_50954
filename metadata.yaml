@@ -1,0 +1,34 @@
+_repo: The-Complete-Poetic-and-Dramatic-Works-of-Robert-Browning-Cambridge-Edition_50954
+contributor:
+  creator:
+    editor:
+      agent_name: Scudder, Horace Elisha
+      aliases:
+      - Scudder, H. E. (Horace Elisha)
+      - Scudder, Horace E.
+      birthdate: 1838
+      deathdate: 1902
+      gutenberg_agent_id: '3446'
+      url: http://www.gutenberg.org/2009/agents/3446
+      wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
+creator:
+  author:
+    agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
+description: ''
+gutenberg_issued: '2016-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Complete Poetic and Dramatic Works of Robert Browning
+
+  Cambridge Edition'
+url: http://www.gutenberg.org/ebooks/50954

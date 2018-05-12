@@ -1,4 +1,5 @@
 _repo: The-Complete-Poetic-and-Dramatic-Works-of-Robert-Browning-Cambridge-Edition_50954
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -11,6 +12,9 @@ contributor:
       gutenberg_agent_id: '3446'
       url: http://www.gutenberg.org/2009/agents/3446
       wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
+covers:
+- cover_type: archival
+  image_path: 50954-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Browning, Robert
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/146
     wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50954#The-Complete-Poetic-and-Dramatic-Works-of-Robert-Browning-Cambridge-Edition
 gutenberg_issued: '2016-01-17'
 gutenberg_type: Text
 identifiers:

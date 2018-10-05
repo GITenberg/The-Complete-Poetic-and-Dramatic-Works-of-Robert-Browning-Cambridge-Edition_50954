@@ -34,6 +34,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Complete Poetic and Dramatic Works of Robert Browning
 
   Cambridge Edition'
